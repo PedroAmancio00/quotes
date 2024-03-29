@@ -1,244 +1,406 @@
 {
 	"businessPartners": [
 		{
-			"id": 1,
-			"text": "Maryjo"
+			"id": "fb44671d-a5ad-4ca7-891b-22fa402ff4b9",
+			"text": "Jabbercube"
 		},
 		{
-			"id": 2,
-			"text": "Edythe"
-		},
-		{
-			"id": 3,
-			"text": "Janeczka"
-		},
-		{
-			"id": 4,
-			"text": "Alvie"
-		},
-		{
-			"id": 5,
-			"text": "Dimitry"
-		},
-		{
-			"id": 6,
-			"text": "Kennedy"
-		},
-		{
-			"id": 7,
-			"text": "Minne"
-		},
-		{
-			"id": 8,
-			"text": "Yvonne"
-		},
-		{
-			"id": 9,
-			"text": "Sibilla"
-		},
-		{
-			"id": 10,
-			"text": "Garek"
-		},
-		{
-			"id": 11,
-			"text": "Lenee"
-		},
-		{
-			"id": 12,
-			"text": "Nat"
-		},
-		{
-			"id": 13,
-			"text": "Emelen"
-		},
-		{
-			"id": 14,
-			"text": "Rora"
-		},
-		{
-			"id": 15,
-			"text": "Guido"
-		},
-		{
-			"id": 16,
-			"text": "Irene"
-		},
-		{
-			"id": 17,
-			"text": "Buck"
-		},
-		{
-			"id": 18,
-			"text": "Even"
-		},
-		{
-			"id": 19,
-			"text": "Ashlin"
-		},
-		{
-			"id": 20,
-			"text": "Cozmo"
-		},
-		{
-			"id": 21,
-			"text": "Norean"
-		},
-		{
-			"id": 22,
-			"text": "Bernarr"
-		},
-		{
-			"id": 23,
-			"text": "Vitoria"
-		},
-		{
-			"id": 24,
-			"text": "Clementia"
-		},
-		{
-			"id": 25,
-			"text": "Abbey"
-		},
-		{
-			"id": 26,
-			"text": "Clemmy"
-		},
-		{
-			"id": 27,
-			"text": "Ram"
-		},
-		{
-			"id": 28,
-			"text": "Hilly"
-		},
-		{
-			"id": 29,
-			"text": "Carilyn"
-		},
-		{
-			"id": 30,
-			"text": "Bryan"
-		},
-		{
-			"id": 31,
-			"text": "Rudolph"
-		},
-		{
-			"id": 32,
-			"text": "Ingar"
-		},
-		{
-			"id": 33,
-			"text": "Nikos"
-		},
-		{
-			"id": 34,
-			"text": "Sissie"
-		},
-		{
-			"id": 35,
-			"text": "Barrett"
-		},
-		{
-			"id": 36,
-			"text": "Rivy"
-		},
-		{
-			"id": 37,
-			"text": "Sisely"
-		},
-		{
-			"id": 38,
-			"text": "Eartha"
-		},
-		{
-			"id": 39,
-			"text": "Yardley"
-		},
-		{
-			"id": 40,
-			"text": "Ronalda"
-		},
-		{
-			"id": 41,
-			"text": "Irene"
-		},
-		{
-			"id": 42,
-			"text": "Luelle"
-		},
-		{
-			"id": 43,
-			"text": "Ricki"
-		},
-		{
-			"id": 44,
-			"text": "Nathanial"
-		},
-		{
-			"id": 45,
-			"text": "Belicia"
-		},
-		{
-			"id": 46,
-			"text": "Lorettalorna"
-		},
-		{
-			"id": 47,
-			"text": "Archie"
-		},
-		{
-			"id": 48,
-			"text": "Hubie"
-		},
-		{
-			"id": 49,
-			"text": "Windham"
-		},
-		{
-			"id": 50,
-			"text": "Etti"
-		},
-		{
-			"id": 51,
-			"text": "Claudell"
-		},
-		{
-			"id": 52,
-			"text": "Sean"
-		},
-		{
-			"id": 53,
+			"id": "63df13c8-5fa5-4cb0-add8-880e268b0d24",
 			"text": "Viva"
 		},
 		{
-			"id": 54,
-			"text": "Nessy"
+			"id": "421efea5-12df-4a6a-8cb9-a3b9326e174d",
+			"text": "Agivu"
 		},
 		{
-			"id": 55,
-			"text": "Odey"
+			"id": "ce3cbf5f-ec9b-421a-adb4-243ffae1c5ec",
+			"text": "Abata"
 		},
 		{
-			"id": 56,
-			"text": "Zacherie"
+			"id": "9f44416a-be38-46f2-921b-46ffe00aac7a",
+			"text": "Jabberbean"
 		},
 		{
-			"id": 57,
-			"text": "Lana"
+			"id": "204ee0d6-e2cf-41c6-92b2-ce23e259ca1f",
+			"text": "Yakidoo"
 		},
 		{
-			"id": 58,
-			"text": "Sib"
+			"id": "67c7b175-ddf4-4a93-9bbc-b8fb4c63ff32",
+			"text": "Fanoodle"
 		},
 		{
-			"id": 59,
-			"text": "Rubina"
+			"id": "0529c733-f27b-47b2-94ee-c73d1a0b7f44",
+			"text": "Linklinks"
 		},
 		{
-			"id": 60,
-			"text": "Cecelia"
+			"id": "ecacb2b6-a8d8-4406-9be2-27b2430be941",
+			"text": "Layo"
+		},
+		{
+			"id": "870d7d82-b456-4b97-9dda-70f46857d021",
+			"text": "Demivee"
+		},
+		{
+			"id": "a46a999a-4698-40f1-9c63-cdcf6f08ea43",
+			"text": "Photojam"
+		},
+		{
+			"id": "c76ee377-1d26-488d-8359-181e9fca26e9",
+			"text": "Photobug"
+		},
+		{
+			"id": "e2ec2b81-afe2-4122-b9e5-be3ff524511d",
+			"text": "Zoonoodle"
+		},
+		{
+			"id": "3655f1ae-24d4-4e0c-864a-b40f009c3d1e",
+			"text": "Vitz"
+		},
+		{
+			"id": "5930a53d-8ce7-4a3f-8a25-df3d10e1e1a4",
+			"text": "Topdrive"
+		},
+		{
+			"id": "d14e3ccc-1e9f-4a19-82f8-a566daf5d96e",
+			"text": "Eire"
+		},
+		{
+			"id": "e05413f8-fc05-4d93-855b-aaf60bcc51d3",
+			"text": "Jetpulse"
+		},
+		{
+			"id": "72b70407-f25f-4490-8351-cb139f487e38",
+			"text": "Lazz"
+		},
+		{
+			"id": "dc3efb1b-2e09-4ce5-9238-915f9b1441ae",
+			"text": "Gevee"
+		},
+		{
+			"id": "0947dc1d-5f74-43e7-9073-b7fe13eb8f29",
+			"text": "Flashpoint"
+		},
+		{
+			"id": "633e0949-b5ab-465f-b3e3-e8e52030b94e",
+			"text": "Skajo"
+		},
+		{
+			"id": "47f06efb-c2bc-43a1-a017-6942df3e3a8a",
+			"text": "Wikivu"
+		},
+		{
+			"id": "0eba1fc0-e5e9-48a8-9480-05e05405af50",
+			"text": "Eabox"
+		},
+		{
+			"id": "8cf1824a-81f6-4828-b5ab-d33199273d5b",
+			"text": "Oyoba"
+		},
+		{
+			"id": "d3d96057-203a-49bb-b80b-f569e5b54a54",
+			"text": "Avavee"
+		},
+		{
+			"id": "eb448e80-21fc-4598-9324-6bfcfe4c4b95",
+			"text": "Dablist"
+		},
+		{
+			"id": "3105b34b-6d7d-4b80-b393-4f699bf90838",
+			"text": "Edgeblab"
+		},
+		{
+			"id": "ce7c4131-3648-471d-98d7-8410be4a3402",
+			"text": "Mycat"
+		},
+		{
+			"id": "7c90e9e2-e337-49a4-a883-5eae7464f693",
+			"text": "Realpoint"
+		},
+		{
+			"id": "b927f2f5-7e87-441d-8002-bb419cc822ca",
+			"text": "Bubblebox"
+		},
+		{
+			"id": "628bc7bf-8df6-4f1f-a9fa-ba39b537f857",
+			"text": "Kimia"
+		},
+		{
+			"id": "98e2a761-21a7-4608-92c7-720ceb7ee35f",
+			"text": "Yacero"
+		},
+		{
+			"id": "a335bba1-6455-4945-b9de-c24cf296452d",
+			"text": "Demimbu"
+		},
+		{
+			"id": "71a9ad10-6bee-4d09-a6ea-98b03b0f9c89",
+			"text": "Zava"
+		},
+		{
+			"id": "ad0cccd0-5102-4ea2-9a61-742c09ff3813",
+			"text": "Avavee"
+		},
+		{
+			"id": "6c9d4507-0c89-464e-b201-269a37cb0301",
+			"text": "Mydeo"
+		},
+		{
+			"id": "a57c38fc-5592-4451-ada2-883f18dd4389",
+			"text": "Thoughtblab"
+		},
+		{
+			"id": "dd45eb2e-fd0a-4d73-8195-b63cc3d04b2a",
+			"text": "Linktype"
+		},
+		{
+			"id": "a48525b3-fdc2-4641-8543-fb13e6d4d0ef",
+			"text": "Buzzbean"
+		},
+		{
+			"id": "8f13227e-92e4-45fc-9f47-174a0748b285",
+			"text": "Dabjam"
+		},
+		{
+			"id": "5fe562a2-0b35-42a9-867f-45de4c560b2f",
+			"text": "Zoomlounge"
+		},
+		{
+			"id": "70c7b169-ee1a-44c9-a3b2-637566381a55",
+			"text": "Kare"
+		},
+		{
+			"id": "ac67157a-2243-4381-a2a9-ecd70e4c9539",
+			"text": "Zoombeat"
+		},
+		{
+			"id": "8d97262c-f417-4932-8e61-3a6e13e8ace0",
+			"text": "Skilith"
+		},
+		{
+			"id": "962a65ce-02a5-488c-aaa5-7788f6f34076",
+			"text": "Dabfeed"
+		},
+		{
+			"id": "91c2a357-2a99-4fc3-bdd5-6cc1ce233dfb",
+			"text": "Ntags"
+		},
+		{
+			"id": "d3d7fbbe-463e-4e88-9e8e-a2fbfeba9d24",
+			"text": "Demivee"
+		},
+		{
+			"id": "05e3649c-ffaf-454d-8876-4ac9635350c0",
+			"text": "Fanoodle"
+		},
+		{
+			"id": "80e1e40c-bd99-4750-a306-0d86bce1b593",
+			"text": "Quamba"
+		},
+		{
+			"id": "d83354c7-7693-45f6-ae4a-7ee7e861eb48",
+			"text": "Ailane"
+		}
+	],
+	"contracts": [
+		{
+			"id": "231ee953-7796-4578-9a25-d79e8a21894a",
+			"text": "Wikizz"
+		},
+		{
+			"id": "b2377543-0463-46b0-a5e4-ac438c52c930",
+			"text": "Tagchat"
+		},
+		{
+			"id": "02a206fd-3e32-47bf-9eaf-6e31caa943a6",
+			"text": "Realbuzz"
+		},
+		{
+			"id": "ae1105ab-2087-405d-80e9-62f22f1939cb",
+			"text": "Riffwire"
+		},
+		{
+			"id": "d45862ea-20cd-4f03-901b-c0ba9dae1bc8",
+			"text": "Mymm"
+		},
+		{
+			"id": "b16f4869-9841-4887-b6eb-5b4b0f951f09",
+			"text": "Blogtags"
+		},
+		{
+			"id": "5597e3fb-4cd0-4e35-bf00-6b6da2ec6ccb",
+			"text": "Meevee"
+		},
+		{
+			"id": "9b2169fb-7063-4472-946d-12c37e69c964",
+			"text": "Dabfeed"
+		},
+		{
+			"id": "b19b8c4a-de72-4f13-875a-5543de6b81b7",
+			"text": "Ooba"
+		},
+		{
+			"id": "a28fffe7-9a2d-4843-8b78-074d2ef023b4",
+			"text": "Browsecat"
+		},
+		{
+			"id": "ea22e729-1eec-45c2-bcaf-3cbc14df10e1",
+			"text": "Yambee"
+		},
+		{
+			"id": "a53ff484-78e9-4127-aeab-0fe540db41d5",
+			"text": "Cogilith"
+		},
+		{
+			"id": "2bfff746-9bd9-4d5e-8d60-d796069a1ac5",
+			"text": "Kwideo"
+		},
+		{
+			"id": "e3531b7a-71fa-4117-b26a-8297e15690a4",
+			"text": "Riffpedia"
+		},
+		{
+			"id": "0f3baaea-866c-4188-862f-87c8763efd06",
+			"text": "Skinix"
+		},
+		{
+			"id": "fda84529-0e78-447f-8994-116c138419c3",
+			"text": "Jaxbean"
+		},
+		{
+			"id": "efce8d9f-4f27-4872-9189-d13b64d64e04",
+			"text": "Jabberbean"
+		},
+		{
+			"id": "426f56e9-c0cd-457d-a56d-66d6ab546364",
+			"text": "Yadel"
+		},
+		{
+			"id": "f8164801-7054-4bac-af3f-f567906fc9f5",
+			"text": "Photofeed"
+		},
+		{
+			"id": "776e9553-257d-4164-a392-4dbf2f2506b0",
+			"text": "Youspan"
+		},
+		{
+			"id": "e250da1f-39d0-4876-9d9b-d3b78a88f14a",
+			"text": "Linktype"
+		},
+		{
+			"id": "ab3f239d-d9c8-4f5a-a9f5-2ac80f301d1d",
+			"text": "Devpoint"
+		},
+		{
+			"id": "0a37b9d3-378f-4231-b430-fda6bdfdf8fe",
+			"text": "Skilith"
+		},
+		{
+			"id": "328ce53f-f450-4016-bbf7-76b58840a263",
+			"text": "Gabvine"
+		},
+		{
+			"id": "0fcac2eb-89e7-4965-bcb9-e69e8972c120",
+			"text": "Oloo"
+		},
+		{
+			"id": "6a98c6df-f7fe-41d0-a62f-46ef2ed787a5",
+			"text": "Yabox"
+		},
+		{
+			"id": "4a5cf02d-a6db-4fae-afa5-5b5505c36195",
+			"text": "Blogtags"
+		},
+		{
+			"id": "c6391128-13e9-4edf-9631-53a135678801",
+			"text": "Rhycero"
+		},
+		{
+			"id": "3d2273cc-b1d3-4f99-b2b9-5a98dfb25a54",
+			"text": "Twitterlist"
+		},
+		{
+			"id": "49ba12ba-b590-48f3-b455-61baa323e52e",
+			"text": "Demimbu"
+		},
+		{
+			"id": "264faf38-237e-4d16-9da3-a467d579611d",
+			"text": "Eire"
+		},
+		{
+			"id": "1d90487c-f83d-4ddb-a1c9-c2df07088d61",
+			"text": "Zooxo"
+		},
+		{
+			"id": "b75129b6-67f1-4184-90ad-a94e6c7beaba",
+			"text": "Kare"
+		},
+		{
+			"id": "e6c71e9f-1cf2-488e-9da7-5776ce2d7d94",
+			"text": "Twitterlist"
+		},
+		{
+			"id": "1b263a6f-36ed-4cb0-a546-927b93741cac",
+			"text": "Zoomlounge"
+		},
+		{
+			"id": "f9fb5433-7342-451d-8973-b0c75c71fdeb",
+			"text": "Gabtune"
+		},
+		{
+			"id": "93ea0e88-5884-4221-bc4d-ef59915539c7",
+			"text": "Yodoo"
+		},
+		{
+			"id": "a52b6991-1c7d-4c74-b7dd-68a2963d6c86",
+			"text": "Pixoboo"
+		},
+		{
+			"id": "6ab1c586-d990-4a41-8bbf-ee495dc7cdf0",
+			"text": "Zoozzy"
+		},
+		{
+			"id": "efa2d4bf-6f26-4d55-9804-588d4d1bfec0",
+			"text": "Voolia"
+		},
+		{
+			"id": "c09a8405-796f-4739-97ed-b80924d4522f",
+			"text": "Zoomcast"
+		},
+		{
+			"id": "7470583f-ec72-49da-a6c3-d40f825f58ff",
+			"text": "Jabbersphere"
+		},
+		{
+			"id": "cd5e2fb7-e7f1-4e9d-8a72-639c2a684841",
+			"text": "Blogpad"
+		},
+		{
+			"id": "393a3580-cdf6-49b7-b671-e682fa692a4c",
+			"text": "Mita"
+		},
+		{
+			"id": "046bde01-68f8-40ea-b570-8eec2987b3eb",
+			"text": "Muxo"
+		},
+		{
+			"id": "b4001914-a878-4211-bfb8-071ae73f07b7",
+			"text": "Demivee"
+		},
+		{
+			"id": "caa8c285-ecd9-428c-8fc0-70647e82248e",
+			"text": "Thoughtworks"
+		},
+		{
+			"id": "05f8b2ee-69e0-4d23-be8e-c3b82e2c0c3f",
+			"text": "Skinder"
+		},
+		{
+			"id": "7dad05b2-0fcc-4c9c-a20c-89a1170cbc58",
+			"text": "Bubblebox"
+		},
+		{
+			"id": "ac9e2b5f-5a58-409f-8f92-1e5f2d7d260b",
+			"text": "Skajo"
 		}
 	]
 }
