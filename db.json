@@ -1,246 +1,244 @@
 {
-    "businessPartners": {
-        "data": [
-            {
-                "id": 1,
-                "text": "Maryjo"
-            },
-            {
-                "id": 2,
-                "text": "Edythe"
-            },
-            {
-                "id": 3,
-                "text": "Janeczka"
-            },
-            {
-                "id": 4,
-                "text": "Alvie"
-            },
-            {
-                "id": 5,
-                "text": "Dimitry"
-            },
-            {
-                "id": 6,
-                "text": "Kennedy"
-            },
-            {
-                "id": 7,
-                "text": "Minne"
-            },
-            {
-                "id": 8,
-                "text": "Yvonne"
-            },
-            {
-                "id": 9,
-                "text": "Sibilla"
-            },
-            {
-                "id": 10,
-                "text": "Garek"
-            },
-            {
-                "id": 11,
-                "text": "Lenee"
-            },
-            {
-                "id": 12,
-                "text": "Nat"
-            },
-            {
-                "id": 13,
-                "text": "Emelen"
-            },
-            {
-                "id": 14,
-                "text": "Rora"
-            },
-            {
-                "id": 15,
-                "text": "Guido"
-            },
-            {
-                "id": 16,
-                "text": "Irene"
-            },
-            {
-                "id": 17,
-                "text": "Buck"
-            },
-            {
-                "id": 18,
-                "text": "Even"
-            },
-            {
-                "id": 19,
-                "text": "Ashlin"
-            },
-            {
-                "id": 20,
-                "text": "Cozmo"
-            },
-            {
-                "id": 21,
-                "text": "Norean"
-            },
-            {
-                "id": 22,
-                "text": "Bernarr"
-            },
-            {
-                "id": 23,
-                "text": "Vitoria"
-            },
-            {
-                "id": 24,
-                "text": "Clementia"
-            },
-            {
-                "id": 25,
-                "text": "Abbey"
-            },
-            {
-                "id": 26,
-                "text": "Clemmy"
-            },
-            {
-                "id": 27,
-                "text": "Ram"
-            },
-            {
-                "id": 28,
-                "text": "Hilly"
-            },
-            {
-                "id": 29,
-                "text": "Carilyn"
-            },
-            {
-                "id": 30,
-                "text": "Bryan"
-            },
-            {
-                "id": 31,
-                "text": "Rudolph"
-            },
-            {
-                "id": 32,
-                "text": "Ingar"
-            },
-            {
-                "id": 33,
-                "text": "Nikos"
-            },
-            {
-                "id": 34,
-                "text": "Sissie"
-            },
-            {
-                "id": 35,
-                "text": "Barrett"
-            },
-            {
-                "id": 36,
-                "text": "Rivy"
-            },
-            {
-                "id": 37,
-                "text": "Sisely"
-            },
-            {
-                "id": 38,
-                "text": "Eartha"
-            },
-            {
-                "id": 39,
-                "text": "Yardley"
-            },
-            {
-                "id": 40,
-                "text": "Ronalda"
-            },
-            {
-                "id": 41,
-                "text": "Irene"
-            },
-            {
-                "id": 42,
-                "text": "Luelle"
-            },
-            {
-                "id": 43,
-                "text": "Ricki"
-            },
-            {
-                "id": 44,
-                "text": "Nathanial"
-            },
-            {
-                "id": 45,
-                "text": "Belicia"
-            },
-            {
-                "id": 46,
-                "text": "Lorettalorna"
-            },
-            {
-                "id": 47,
-                "text": "Archie"
-            },
-            {
-                "id": 48,
-                "text": "Hubie"
-            },
-            {
-                "id": 49,
-                "text": "Windham"
-            },
-            {
-                "id": 50,
-                "text": "Etti"
-            },
-            {
-                "id": 51,
-                "text": "Claudell"
-            },
-            {
-                "id": 52,
-                "text": "Sean"
-            },
-            {
-                "id": 53,
-                "text": "Viva"
-            },
-            {
-                "id": 54,
-                "text": "Nessy"
-            },
-            {
-                "id": 55,
-                "text": "Odey"
-            },
-            {
-                "id": 56,
-                "text": "Zacherie"
-            },
-            {
-                "id": 57,
-                "text": "Lana"
-            },
-            {
-                "id": 58,
-                "text": "Sib"
-            },
-            {
-                "id": 59,
-                "text": "Rubina"
-            },
-            {
-                "id": 60,
-                "text": "Cecelia"
-            }
-        ]
-    }
+	"businessPartners": [
+		{
+			"id": 1,
+			"text": "Maryjo"
+		},
+		{
+			"id": 2,
+			"text": "Edythe"
+		},
+		{
+			"id": 3,
+			"text": "Janeczka"
+		},
+		{
+			"id": 4,
+			"text": "Alvie"
+		},
+		{
+			"id": 5,
+			"text": "Dimitry"
+		},
+		{
+			"id": 6,
+			"text": "Kennedy"
+		},
+		{
+			"id": 7,
+			"text": "Minne"
+		},
+		{
+			"id": 8,
+			"text": "Yvonne"
+		},
+		{
+			"id": 9,
+			"text": "Sibilla"
+		},
+		{
+			"id": 10,
+			"text": "Garek"
+		},
+		{
+			"id": 11,
+			"text": "Lenee"
+		},
+		{
+			"id": 12,
+			"text": "Nat"
+		},
+		{
+			"id": 13,
+			"text": "Emelen"
+		},
+		{
+			"id": 14,
+			"text": "Rora"
+		},
+		{
+			"id": 15,
+			"text": "Guido"
+		},
+		{
+			"id": 16,
+			"text": "Irene"
+		},
+		{
+			"id": 17,
+			"text": "Buck"
+		},
+		{
+			"id": 18,
+			"text": "Even"
+		},
+		{
+			"id": 19,
+			"text": "Ashlin"
+		},
+		{
+			"id": 20,
+			"text": "Cozmo"
+		},
+		{
+			"id": 21,
+			"text": "Norean"
+		},
+		{
+			"id": 22,
+			"text": "Bernarr"
+		},
+		{
+			"id": 23,
+			"text": "Vitoria"
+		},
+		{
+			"id": 24,
+			"text": "Clementia"
+		},
+		{
+			"id": 25,
+			"text": "Abbey"
+		},
+		{
+			"id": 26,
+			"text": "Clemmy"
+		},
+		{
+			"id": 27,
+			"text": "Ram"
+		},
+		{
+			"id": 28,
+			"text": "Hilly"
+		},
+		{
+			"id": 29,
+			"text": "Carilyn"
+		},
+		{
+			"id": 30,
+			"text": "Bryan"
+		},
+		{
+			"id": 31,
+			"text": "Rudolph"
+		},
+		{
+			"id": 32,
+			"text": "Ingar"
+		},
+		{
+			"id": 33,
+			"text": "Nikos"
+		},
+		{
+			"id": 34,
+			"text": "Sissie"
+		},
+		{
+			"id": 35,
+			"text": "Barrett"
+		},
+		{
+			"id": 36,
+			"text": "Rivy"
+		},
+		{
+			"id": 37,
+			"text": "Sisely"
+		},
+		{
+			"id": 38,
+			"text": "Eartha"
+		},
+		{
+			"id": 39,
+			"text": "Yardley"
+		},
+		{
+			"id": 40,
+			"text": "Ronalda"
+		},
+		{
+			"id": 41,
+			"text": "Irene"
+		},
+		{
+			"id": 42,
+			"text": "Luelle"
+		},
+		{
+			"id": 43,
+			"text": "Ricki"
+		},
+		{
+			"id": 44,
+			"text": "Nathanial"
+		},
+		{
+			"id": 45,
+			"text": "Belicia"
+		},
+		{
+			"id": 46,
+			"text": "Lorettalorna"
+		},
+		{
+			"id": 47,
+			"text": "Archie"
+		},
+		{
+			"id": 48,
+			"text": "Hubie"
+		},
+		{
+			"id": 49,
+			"text": "Windham"
+		},
+		{
+			"id": 50,
+			"text": "Etti"
+		},
+		{
+			"id": 51,
+			"text": "Claudell"
+		},
+		{
+			"id": 52,
+			"text": "Sean"
+		},
+		{
+			"id": 53,
+			"text": "Viva"
+		},
+		{
+			"id": 54,
+			"text": "Nessy"
+		},
+		{
+			"id": 55,
+			"text": "Odey"
+		},
+		{
+			"id": 56,
+			"text": "Zacherie"
+		},
+		{
+			"id": 57,
+			"text": "Lana"
+		},
+		{
+			"id": 58,
+			"text": "Sib"
+		},
+		{
+			"id": 59,
+			"text": "Rubina"
+		},
+		{
+			"id": 60,
+			"text": "Cecelia"
+		}
+	]
 }
