@@ -234,5 +234,15 @@
 			"id": "3d2273cc-b1d3-4f99-b2b9-5a98dfb25a54",
 			"text": "Twitterlist"
 		}
+	],
+	"vendor": [
+		{
+			"id": "197a87e4-94aa-4262-84c5-0efd741124cb",
+			"text": "Zooxo (ZOO)"
+		},
+		{
+			"id": "f8809b01-480c-4db1-a76f-7a97cacb6a62",
+			"text": "Eare (EAR)"
+		}
 	]
 }
